@@ -10,10 +10,3 @@ while (response != str(answer)):
         response = input()
     else:
         print("それより大きいよ")
-
-
-
-
- 
-   
-
